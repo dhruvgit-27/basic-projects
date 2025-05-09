@@ -1,7 +1,7 @@
 <h1 align="center">🌡️ Temperature Converter</h1>
 
 <p align="center">
-  🔁 Convert temperatures between Celsius and Fahrenheit using a simple React app.<br/>
+  🔁 Convert temperatures between Celsius, Fahrenheit and Kelvin using a simple React app.<br/>
   📚 Built as part of my development training to understand React fundamentals.
 </p>
 
