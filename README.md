@@ -100,9 +100,9 @@ This is a beginner project. Feel free to fork it and:
 
 Add styling with Tailwind or Bootstrap
 
-Support Kelvin conversion
-
 Improve UI
+
+Anything you find more interesting 
 
 ---
 
