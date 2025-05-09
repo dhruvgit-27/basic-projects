@@ -61,10 +61,15 @@ npm start
 📁 Project Structure
 
 temperature/
+
 ├── public/
+
 ├── src/
+
 ├── package.json
+
 ├── package-lock.json
+
 └── README.md
 
 ---
