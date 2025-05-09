@@ -24,18 +24,16 @@
 
 ## 📸 Screenshot
 
-![alt text](<Screenshot 2025-05-10 002939.png>)
-![alt text](<Screenshot 2025-05-10 002959.png>)
-<p align="center">
-<img src=".Screenshot 2025-05-10 002916.png" alt="App Screenshot" width="600"/>
-</p>
-
-
+![App Screenshot](./Screenshot.png)
+![App Screenshot](./Screenshot2.png)
+![App Screenshot](./Screenshot3.png)
 
 ---
 
 🚀 Run This Project Locally
+
 ⚙️ Prerequisites
+
 Node.js (v16 or higher)
 
 NPM (Node Package Manager)
@@ -72,6 +70,7 @@ temperature/
 ---
 
 🧠 What I Learned
+
 🔹 Component-based architecture
 
 🔹 Handling input and output
@@ -83,12 +82,15 @@ temperature/
 ---
 
 👨‍💻 Author
+
 Dhruv Pratap Singh
+
 📬 GitHub: @dhruvgit-27
 
 ---
 
 💬 Want to Contribute?
+
 This is a beginner project. Feel free to fork it and:
 
 Add styling with Tailwind or Bootstrap
@@ -99,4 +101,4 @@ Improve UI
 
 ---
 
-<p align="center"> Made with ❤️ using React </p> ```
+<p align="center"> Made with ❤️ using React </p> 
