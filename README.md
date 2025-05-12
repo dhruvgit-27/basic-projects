@@ -58,6 +58,12 @@ npm start
 
 ---
 
+*** Or Not in mood to do this hardwork, no problem I got you covered. ***
+
+👉 Click this Vercel Link: https://k-c-ftemp-converter.vercel.app/
+
+---
+
 📁 Project Structure
 
 temperature/
