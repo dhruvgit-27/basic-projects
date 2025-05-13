@@ -14,6 +14,8 @@ A visually interactive app for converting temperatures between Celsius, Fahrenhe
 - Interactive UI with real-time feedback
 - Clean layout with animated thermometer and emojis
 
+Click the link below for live demo 👇
+
 🔗 [Live Demo](https://k-c-ftemp-converter.vercel.app)
 
 ---
@@ -25,6 +27,8 @@ A basic product listing page with a clean layout. Users can view multiple produc
 - Simple product display with details
 - Responsive layout
 - Designed to simulate a typical ecommerce product grid
+
+Click the link below for live demo 👇
 
 🔗 [Live Demo](https://d-ecom.vercel.app/)
 
