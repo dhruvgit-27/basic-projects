@@ -1,25 +1,31 @@
 # Basic Projects
 
-This repository contains a collection of basic full-stack and frontend development projects. These projects are created to reinforce key concepts in web development, focusing on both UI and server-side integration.
+This repository contains a collection of simple and beginner-friendly web development projects. These mini-projects are meant to reinforce core concepts in frontend development through hands-on practice.
 
 ---
 
-## 🔧 Projects Included
+## 🚀 Projects Included
 
-### 1. 🌡️ Temperature Converter App
+### 1. 🌡️ Temperature Converter
 
-A stylish and interactive temperature conversion application built using **React** and **Tailwind CSS**. It allows users to convert between Celsius, Fahrenheit, and Kelvin. Features dynamic visual feedback based on temperature.
+A visually interactive app for converting temperatures between Celsius, Fahrenheit, and Kelvin. Features dynamic feedback based on the selected temperature.
 
-- **Frontend**: React, Tailwind CSS
-- **Features**: Dynamic thermometer UI, emoji-based feedback, unit conversion
-- **Live Demo**: [k-c-ftemp-converter.vercel.app](https://k-c-ftemp-converter.vercel.app)
+- Supports three temperature units
+- Interactive UI with real-time feedback
+- Clean layout with animated thermometer and emojis
+
+🔗 [Live Demo](https://k-c-ftemp-converter.vercel.app)
 
 ---
 
-### 2. 🛒 Ecommerce App (MERN Stack)
+### 2. 🛍️ Ecommerce Product Page
 
-A basic full-stack ecommerce application built using the **MERN** stack. Includes product display, modular components, and backend integration with MongoDB.
+A basic product listing page with a clean layout. Users can view multiple products, filter by category, and browse featured items.
 
-- **Frontend**: React, Tailwind CSS, Vite
-- **Backend**: Node.js, Express, MongoDB
-- **Features**: Product listings, responsive UI, backend API integration
+- Simple product display with details
+- Responsive layout
+- Designed to simulate a typical ecommerce product grid
+
+---
+
+Feel free to explore each folder for more details and source code.
