@@ -2,6 +2,7 @@
 
 🧾 A responsive and dynamic e-commerce product listing interface built with React.
 📦 Created to practice frontend development concepts like component reuse and dynamic rendering.
+
 🌐 Live Demo: [https://d-ecom.vercel.app/]
 
 <div align="center">
